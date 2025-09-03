@@ -1,3 +1,5 @@
 #!/bin/bash
 
-#Addition 
+#Addition
+x = a+b
+y= a-b
